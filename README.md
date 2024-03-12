@@ -6,7 +6,6 @@ A multi-stage heatmap based model for hand pose estimation, driven by MLE-Loss.
 
 <div align="center">
     <img src="images/main.png", width="600" alt><br>
-    Regression with Residual Log-likelihood Estimation
 </div>
 
 ## TODO
